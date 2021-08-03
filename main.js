@@ -6,8 +6,9 @@ var images =
    "https://drive.google.com/uc?export=download&id=1qS9LVz2m1ZoPSTxFKl85dMMGJH7FwQVt",
    "https://drive.google.com/uc?export=download&id=107ahTaxKAO253oJWYAyOa9sWhuauOJiB"];
 
-   var names = ["Family Book","Mohit Sharma","Rajni Sharma","Kapil Sharma","Vandana Sharma","Om Prakash Sharma"];
+   var names = ["Mohit Sharma","Rajni Sharma","Kapil Sharma","Vandana Sharma","Om Pakash Sharma"];
 
+  
    var i = 0;
    function update()
    {
