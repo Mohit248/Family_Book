@@ -1,10 +1,10 @@
 var images =
 [
-   "https://drive.google.com/uc?export=download&id=1rS8O0hQW7TS4-ZxThpLsUFVcvxsNgmJT" ,
-   "https://drive.google.com/$typettps://drive.google.com/uc?export=download&id=1rS8O0hQW7TS4-ZxThpLsUFVcvxsNgmJ",
-"https://drive.google.com/uc?export=download&id=1vnwp4D5Rf46dE6qH6Q6jfB2jCUM4z1tT",
-   "https://drive.google.com/uc?export=download&id=1qS9LVz2m1ZoPSTxFKl85dMMGJH7FwQVt",
-   "https://drive.google.com/uc?export=download&id=107ahTaxKAO253oJWYAyOa9sWhuauOJiB"];
+   "MohitSharma.png" ,
+   "RajniSharma,png",
+"KapilSharma.png",
+   "VandanaSharma.png",
+   "O.PSharma.png"];
 
    var names = ["Mohit Sharma","Rajni Sharma","Kapil Sharma","Vandana Sharma","Om Pakash Sharma"];
 
